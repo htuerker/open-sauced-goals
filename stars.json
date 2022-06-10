@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "open-sauced/open-sauced",
+    "stargazers_count": 676,
+    "open_issues_count": 16,
+    "forks_count": 284
+  },
+  {
+    "full_name": "prisma/prisma",
+    "stargazers_count": 23398,
+    "open_issues_count": 2087,
+    "forks_count": 827
+  },
+  {
+    "full_name": "infrastructure-components/infrastructure-components",
+    "stargazers_count": 101,
+    "open_issues_count": 5,
+    "forks_count": 9
+  },
+  {
+    "full_name": "codacy/tools-for-code-review-engineers",
+    "stargazers_count": 653,
+    "open_issues_count": 1,
+    "forks_count": 32
+  },
+  {
+    "full_name": "nock/nock",
+    "stargazers_count": 11526,
+    "open_issues_count": 58,
+    "forks_count": 770
+  },
+  {
+    "full_name": "MoathShraim/Nodejs-rest-api-project-structure-Express",
+    "stargazers_count": 251,
+    "open_issues_count": 4,
+    "forks_count": 104
+  },
+  {
+    "full_name": "coder/code-server",
+    "stargazers_count": 53944,
+    "open_issues_count": 173,
+    "forks_count": 4516
+  },
+  {
+    "full_name": "goldbergyoni/nodebestpractices",
+    "stargazers_count": 78247,
+    "open_issues_count": 23,
+    "forks_count": 8086
+  },
+  {
+    "full_name": "winstonjs/winston",
+    "stargazers_count": 18962,
+    "open_issues_count": 435,
+    "forks_count": 1670
+  },
+  {
+    "full_name": "ittus/Refactoring-summary-2nd-javascript",
+    "stargazers_count": 211,
+    "open_issues_count": 0,
+    "forks_count": 36
+  },
+  {
+    "full_name": "javascript-society/javascript-path",
+    "stargazers_count": 3297,
+    "open_issues_count": 6,
+    "forks_count": 314
+  },
+  {
+    "full_name": "sindresorhus/awesome-nodejs",
+    "stargazers_count": 44786,
+    "open_issues_count": 7,
+    "forks_count": 5396
+  },
+  {
+    "full_name": "wlsf82/epic-react-fundamentals",
+    "stargazers_count": 31,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "kickstarter/ios-oss",
+    "stargazers_count": 7961,
+    "open_issues_count": 2,
+    "forks_count": 1177
+  },
+  {
+    "full_name": "s0/eradicate-exclusive-tech-terminology",
+    "stargazers_count": 39,
+    "open_issues_count": 4,
+    "forks_count": 9
+  },
+  {
+    "full_name": "typestack/class-validator",
+    "stargazers_count": 7823,
+    "open_issues_count": 393,
+    "forks_count": 601
+  },
+  {
+    "full_name": "thearnica/react-uid",
+    "stargazers_count": 293,
+    "open_issues_count": 29,
+    "forks_count": 11
+  },
+  {
+    "full_name": "FAQGURU/FAQGURU",
+    "stargazers_count": 4745,
+    "open_issues_count": 19,
+    "forks_count": 527
+  },
+  {
+    "full_name": "reach4help/reach4help",
+    "stargazers_count": 84,
+    "open_issues_count": 71,
+    "forks_count": 74
+  },
+  {
+    "full_name": "mattermost/mattermost-webapp",
+    "stargazers_count": 1736,
+    "open_issues_count": 141,
+    "forks_count": 2496
+  },
+  {
+    "full_name": "chriskempson/tomorrow-theme",
+    "stargazers_count": 13141,
+    "open_issues_count": 110,
+    "forks_count": 3194
+  },
+  {
+    "full_name": "p8952/bocker",
+    "stargazers_count": 8669,
+    "open_issues_count": 11,
+    "forks_count": 633
+  },
+  {
+    "full_name": "hashicorp/terraform",
+    "stargazers_count": 32918,
+    "open_issues_count": 1615,
+    "forks_count": 7656
+  },
+  {
+    "full_name": "petkaantonov/bluebird",
+    "stargazers_count": 20061,
+    "open_issues_count": 114,
+    "forks_count": 2430
+  },
+  {
+    "full_name": "phusion/passenger",
+    "stargazers_count": 4843,
+    "open_issues_count": 195,
+    "forks_count": 536
+  },
+  {
+    "full_name": "sorbet/sorbet",
+    "stargazers_count": 3192,
+    "open_issues_count": 634,
+    "forks_count": 397
+  },
+  {
+    "full_name": "Netflix/fast_jsonapi",
+    "stargazers_count": 5122,
+    "open_issues_count": 109,
+    "forks_count": 420
+  },
+  {
+    "full_name": "lynndylanhurley/devise_token_auth",
+    "stargazers_count": 3324,
+    "open_issues_count": 179,
+    "forks_count": 1079
+  },
+  {
+    "full_name": "sunspot/sunspot",
+    "stargazers_count": 2952,
+    "open_issues_count": 152,
+    "forks_count": 927
+  },
+  {
+    "full_name": "palkan/action_policy",
+    "stargazers_count": 975,
+    "open_issues_count": 7,
+    "forks_count": 72
+  }
+]
