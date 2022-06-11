@@ -1,14 +1,14 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 676,
-    "open_issues_count": 16,
+    "stargazers_count": 678,
+    "open_issues_count": 17,
     "forks_count": 284
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 23398,
-    "open_issues_count": 2087,
+    "stargazers_count": 23406,
+    "open_issues_count": 2089,
     "forks_count": 827
   },
   {
@@ -26,8 +26,8 @@
   {
     "full_name": "nock/nock",
     "stargazers_count": 11526,
-    "open_issues_count": 58,
-    "forks_count": 770
+    "open_issues_count": 59,
+    "forks_count": 771
   },
   {
     "full_name": "MoathShraim/Nodejs-rest-api-project-structure-Express",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "coder/code-server",
-    "stargazers_count": 53944,
+    "stargazers_count": 53957,
     "open_issues_count": 173,
     "forks_count": 4516
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 78247,
+    "stargazers_count": 78253,
     "open_issues_count": 23,
     "forks_count": 8086
   },
   {
     "full_name": "winstonjs/winston",
-    "stargazers_count": 18962,
+    "stargazers_count": 18963,
     "open_issues_count": 435,
-    "forks_count": 1670
+    "forks_count": 1671
   },
   {
     "full_name": "ittus/Refactoring-summary-2nd-javascript",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "javascript-society/javascript-path",
-    "stargazers_count": 3297,
+    "stargazers_count": 3298,
     "open_issues_count": 6,
     "forks_count": 314
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 44786,
+    "stargazers_count": 44793,
     "open_issues_count": 7,
     "forks_count": 5396
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 7823,
+    "stargazers_count": 7827,
     "open_issues_count": 393,
     "forks_count": 601
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "FAQGURU/FAQGURU",
-    "stargazers_count": 4745,
+    "stargazers_count": 4744,
     "open_issues_count": 19,
     "forks_count": 527
   },
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "mattermost/mattermost-webapp",
-    "stargazers_count": 1736,
-    "open_issues_count": 141,
-    "forks_count": 2496
+    "stargazers_count": 1737,
+    "open_issues_count": 144,
+    "forks_count": 2497
   },
   {
     "full_name": "chriskempson/tomorrow-theme",
-    "stargazers_count": 13141,
+    "stargazers_count": 13140,
     "open_issues_count": 110,
     "forks_count": 3194
   },
   {
     "full_name": "p8952/bocker",
-    "stargazers_count": 8669,
+    "stargazers_count": 8670,
     "open_issues_count": 11,
     "forks_count": 633
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 32918,
-    "open_issues_count": 1615,
-    "forks_count": 7656
+    "stargazers_count": 32939,
+    "open_issues_count": 1616,
+    "forks_count": 7658
   },
   {
     "full_name": "petkaantonov/bluebird",
-    "stargazers_count": 20061,
+    "stargazers_count": 20060,
     "open_issues_count": 114,
     "forks_count": 2430
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3192,
+    "stargazers_count": 3193,
     "open_issues_count": 634,
     "forks_count": 397
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "sunspot/sunspot",
-    "stargazers_count": 2952,
+    "stargazers_count": 2951,
     "open_issues_count": 152,
     "forks_count": 927
   },
   {
     "full_name": "palkan/action_policy",
-    "stargazers_count": 975,
+    "stargazers_count": 976,
     "open_issues_count": 7,
     "forks_count": 72
   }
