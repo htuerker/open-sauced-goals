@@ -1,21 +1,21 @@
 [
   {
     "full_name": "nock/nock",
-    "stargazers_count": 11545,
+    "stargazers_count": 11546,
     "open_issues_count": 58,
-    "forks_count": 771
+    "forks_count": 772
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 701,
+    "stargazers_count": 703,
     "open_issues_count": 16,
     "forks_count": 290
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 23532,
-    "open_issues_count": 2103,
-    "forks_count": 832
+    "stargazers_count": 23552,
+    "open_issues_count": 2104,
+    "forks_count": 833
   },
   {
     "full_name": "infrastructure-components/infrastructure-components",
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "coder/code-server",
-    "stargazers_count": 54075,
-    "open_issues_count": 176,
-    "forks_count": 4526
+    "stargazers_count": 54092,
+    "open_issues_count": 174,
+    "forks_count": 4527
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 78435,
-    "open_issues_count": 23,
-    "forks_count": 8111
+    "stargazers_count": 78454,
+    "open_issues_count": 24,
+    "forks_count": 8112
   },
   {
     "full_name": "winstonjs/winston",
-    "stargazers_count": 18984,
+    "stargazers_count": 18988,
     "open_issues_count": 436,
     "forks_count": 1670
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 44862,
+    "stargazers_count": 44870,
     "open_issues_count": 7,
-    "forks_count": 5395
+    "forks_count": 5394
   },
   {
     "full_name": "wlsf82/epic-react-fundamentals",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 7848,
+    "stargazers_count": 7850,
     "open_issues_count": 394,
-    "forks_count": 601
+    "forks_count": 602
   },
   {
     "full_name": "thearnica/react-uid",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "mattermost/mattermost-webapp",
-    "stargazers_count": 1741,
-    "open_issues_count": 134,
-    "forks_count": 2505
+    "stargazers_count": 1743,
+    "open_issues_count": 122,
+    "forks_count": 2507
   },
   {
     "full_name": "chriskempson/tomorrow-theme",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 33026,
-    "open_issues_count": 1610,
-    "forks_count": 7675
+    "stargazers_count": 33030,
+    "open_issues_count": 1606,
+    "forks_count": 7681
   },
   {
     "full_name": "petkaantonov/bluebird",
@@ -152,7 +152,7 @@
   {
     "full_name": "sorbet/sorbet",
     "stargazers_count": 3196,
-    "open_issues_count": 635,
+    "open_issues_count": 636,
     "forks_count": 399
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "lynndylanhurley/devise_token_auth",
-    "stargazers_count": 3325,
+    "stargazers_count": 3326,
     "open_issues_count": 179,
     "forks_count": 1079
   },
