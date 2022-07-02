@@ -1,27 +1,27 @@
 [
   {
     "full_name": "rowyio/rowy",
-    "stargazers_count": 3240,
+    "stargazers_count": 3247,
     "open_issues_count": 62,
     "forks_count": 211
   },
   {
     "full_name": "nock/nock",
     "stargazers_count": 11561,
-    "open_issues_count": 58,
-    "forks_count": 773
+    "open_issues_count": 59,
+    "forks_count": 772
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 710,
     "open_issues_count": 16,
-    "forks_count": 299
+    "forks_count": 298
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 23829,
-    "open_issues_count": 2110,
-    "forks_count": 843
+    "stargazers_count": 23867,
+    "open_issues_count": 2111,
+    "forks_count": 845
   },
   {
     "full_name": "infrastructure-components/infrastructure-components",
@@ -43,25 +43,25 @@
   },
   {
     "full_name": "coder/code-server",
-    "stargazers_count": 54274,
+    "stargazers_count": 54285,
     "open_issues_count": 181,
     "forks_count": 4541
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 78845,
+    "stargazers_count": 78888,
     "open_issues_count": 24,
-    "forks_count": 8168
+    "forks_count": 8166
   },
   {
     "full_name": "winstonjs/winston",
-    "stargazers_count": 19055,
+    "stargazers_count": 19058,
     "open_issues_count": 432,
     "forks_count": 1675
   },
   {
     "full_name": "ittus/Refactoring-summary-2nd-javascript",
-    "stargazers_count": 214,
+    "stargazers_count": 215,
     "open_issues_count": 0,
     "forks_count": 36
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 45207,
+    "stargazers_count": 45229,
     "open_issues_count": 6,
-    "forks_count": 5404
+    "forks_count": 5403
   },
   {
     "full_name": "wlsf82/epic-react-fundamentals",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "kickstarter/ios-oss",
-    "stargazers_count": 7969,
+    "stargazers_count": 7968,
     "open_issues_count": 2,
-    "forks_count": 1179
+    "forks_count": 1180
   },
   {
     "full_name": "s0/eradicate-exclusive-tech-terminology",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 7918,
+    "stargazers_count": 7919,
     "open_issues_count": 397,
     "forks_count": 608
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "FAQGURU/FAQGURU",
-    "stargazers_count": 4750,
+    "stargazers_count": 4751,
     "open_issues_count": 19,
     "forks_count": 526
   },
@@ -123,13 +123,13 @@
     "full_name": "mattermost/mattermost-webapp",
     "stargazers_count": 1760,
     "open_issues_count": 142,
-    "forks_count": 2529
+    "forks_count": 2530
   },
   {
     "full_name": "chriskempson/tomorrow-theme",
     "stargazers_count": 13150,
     "open_issues_count": 110,
-    "forks_count": 3206
+    "forks_count": 3205
   },
   {
     "full_name": "p8952/bocker",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 33204,
-    "open_issues_count": 1621,
-    "forks_count": 7722
+    "stargazers_count": 33228,
+    "open_issues_count": 1624,
+    "forks_count": 7724
   },
   {
     "full_name": "petkaantonov/bluebird",
-    "stargazers_count": 20075,
+    "stargazers_count": 20076,
     "open_issues_count": 114,
-    "forks_count": 2428
+    "forks_count": 2426
   },
   {
     "full_name": "phusion/passenger",
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3203,
-    "open_issues_count": 648,
+    "stargazers_count": 3204,
+    "open_issues_count": 647,
     "forks_count": 402
   },
   {
